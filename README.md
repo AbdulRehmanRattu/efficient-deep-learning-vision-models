@@ -1,5 +1,20 @@
 # Deep Generative Adversarial Networks (DCGAN) and Efficient SqueezeNet Edge Vision Classifier
 
+<div align="center">
+
+[<img src="https://img.shields.io/badge/License-Apache_2.0-blue.svg" alt="License">](https://opensource.org/licenses/Apache-2.0)
+<img src="https://img.shields.io/badge/Python-3.10%20%7C%203.11%20%7C%203.12-3776AB.svg?logo=python&logoColor=white" alt="Python">
+<img src="https://img.shields.io/badge/Vision-PyTorch%20%7C%20OpenCV-EE4C2C.svg?logo=pytorch&logoColor=white" alt="Vision">
+<img src="https://img.shields.io/badge/Status-Production%20Ready-brightgreen.svg" alt="Status">
+
+**Enterprise-grade, high-performance implementation built and maintained by Abdul Rehman Rattu.**
+
+[Overview](#overview) • [Key Features](#key-features) • [Installation & Usage](#quickstart--usage) • [Author & Maintainer](#author--maintainer)
+
+</div>
+
+---
+
 ## Overview
 
 Modern deep computer vision encompasses two complementary frontiers:
@@ -11,7 +26,6 @@ This project implements and benchmarks two end-to-end PyTorch vision architectur
 - **Lightweight SqueezeNet Classifier**: Engineered with Fire Modules (1x1 squeeze layers + parallel 1x1 and 3x3 expand layers) achieving high classification accuracy with an ultralight parameter footprint under 5MB.
 
 ---
-
 
 ---
 
@@ -167,3 +181,15 @@ Run the SqueezeNet classification training and evaluation pipeline:
 ```bash
 jupyter notebook FINAL/Classifier.ipynb
 ```
+
+---
+
+## Author & Maintainer
+
+**Abdul Rehman Rattu**  
+*Forward Deployed AI Engineer & Solutions Architect*  
+*Founder & Technical Lead, Rapide Technologies*
+
+* **Email**: [rattu786.ar@gmail.com](mailto:rattu786.ar@gmail.com)
+* **LinkedIn**: [linkedin.com/in/abdul-rehman-rattu-395bba237](https://www.linkedin.com/in/abdul-rehman-rattu-395bba237)
+* **GitHub**: [github.com/AbdulRehmanRattu](https://github.com/AbdulRehmanRattu)
